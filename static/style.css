@@ -14,7 +14,7 @@ body {
   display: inline-block;
   text-align: center;
   background-color: #FFEB3B;
-  color: #666;
+  color: #000;
 }
 #form, #results {
   margin: 1em 0;
